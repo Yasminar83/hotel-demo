@@ -1,0 +1,1 @@
+﻿Alter Table rooms ADD room_type nvarchar(100);

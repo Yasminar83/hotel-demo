@@ -1,0 +1,29 @@
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel_final.ADD_MEMBERS.resources
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel_final.CLIENTS.resources
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel_final.ENTRANCE.resources
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel_final.MAIN_PANNEL.resources
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel_final.RESERVATIONS.resources
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel_final.ROOMS.resources
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel final.csproj.GenerateResource.cache
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel final.GeneratedMSBuildEditorConfig.editorconfig
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel final.AssemblyInfoInputs.cache
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel final.AssemblyInfo.cs
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel final.csproj.CoreCompileInputs.cache
+D:\yasamin\c#\hotel final\hotel final\bin\Debug\net8.0-windows\hotel final.exe
+D:\yasamin\c#\hotel final\hotel final\bin\Debug\net8.0-windows\hotel final.deps.json
+D:\yasamin\c#\hotel final\hotel final\bin\Debug\net8.0-windows\hotel final.runtimeconfig.json
+D:\yasamin\c#\hotel final\hotel final\bin\Debug\net8.0-windows\hotel final.dll
+D:\yasamin\c#\hotel final\hotel final\bin\Debug\net8.0-windows\hotel final.pdb
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel final.dll
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\refint\hotel final.dll
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel final.pdb
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel final.genruntimeconfig.cache
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\ref\hotel final.dll
+D:\yasamin\c#\hotel final\hotel final\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\yasamin\c#\hotel final\hotel final\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\yasamin\c#\hotel final\hotel final\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\yasamin\c#\hotel final\hotel final\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\yasamin\c#\hotel final\hotel final\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\yasamin\c#\hotel final\hotel final\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel final.csproj.AssemblyReference.cache
+D:\yasamin\c#\hotel final\hotel final\obj\Debug\net8.0-windows\hotel fi.CFCB84CC.Up2Date
